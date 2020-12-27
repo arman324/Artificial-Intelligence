@@ -1,5 +1,5 @@
 # Artificial-Intelligence  
-If you hava something to say join [Discussion](https://github.com/GhazaleZe/Artificial-Intelligence/discussions).  
+If you have something to say join [Discussion](https://github.com/GhazaleZe/Artificial-Intelligence/discussions).  
 ## [Local Search](https://github.com/GhazaleZe/Artificial-Intelligence/tree/main/local_search): :relaxed:  
 ### Requirement  
 - python3.x
